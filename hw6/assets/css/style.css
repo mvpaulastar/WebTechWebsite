@@ -1,4 +1,12 @@
 /* CSS Document */
+@keyframes rotation{
+	from{
+		transform: rotate(0deg);
+	}to{
+		transform:rotate(359deg);
+	}
+}
+
 body { 
 	background-color: #212121;
 	color: darkslategray;
@@ -24,12 +32,13 @@ body {
 
 .body-content img{
 	height:100%;
+	animation: rotation 2s 2s linear;
 }
 
 .body-content table{
-	color:lightslategray;
-	border-color:lightslategray;
-	border: 1px;
+	color: darkslategray;
+	border-color:darkslategray;
+	border: solid;
 }
 
 
