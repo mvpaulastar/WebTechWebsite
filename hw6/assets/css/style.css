@@ -1,0 +1,39 @@
+/* CSS Document */
+body { background-color: #212121 }
+
+.navbar.navbar-light{
+	background-color: #1B1B1B;
+}
+
+.nav-link{
+	color:darkslategray;
+}
+
+.nav-link.active{
+	color:gray;
+}
+
+#aboutMe{
+	padding-top: 50px;
+	color: lightslategrey; 
+	
+}
+
+#aboutMe ol{
+	display: inline-block;
+	text-align:left;
+}
+
+#aboutMe img{
+	height:100%;
+	
+}
+
+.table{
+	color:lightslategray;
+	border-color:lightslategray;
+	border: 1px;
+}
+
+
+
