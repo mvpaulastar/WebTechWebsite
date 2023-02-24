@@ -1,5 +1,8 @@
 /* CSS Document */
-body { background-color: #212121 }
+body { 
+	background-color: #212121;
+	color: darkslategray;
+}
 
 .navbar.navbar-light{
 	background-color: #1B1B1B;
@@ -13,27 +16,22 @@ body { background-color: #212121 }
 	color:gray;
 }
 
-#aboutMe{
+.body-content ol{
 	padding-top: 50px;
-	color: lightslategrey; 
-	
-}
-
-#aboutMe ol{
 	display: inline-block;
-	text-align:left;
+	text-align:left;	
 }
 
-#aboutMe img{
+.body-content img{
 	height:100%;
-	
 }
 
-.table{
+.body-content table{
 	color:lightslategray;
 	border-color:lightslategray;
 	border: 1px;
 }
+
 
 
 
