@@ -1,6 +1,6 @@
 # Website
-This is a website I am working on for a class.
-This website hosted over AWS. I am using the free t2.micro as my instance type as it is available for AWS free tier.
+This is a website I am working on for a class, hosted over AWS.
+I am using the free t2.micro as my instance type as it is available for AWS free tier.
 All work done on the website for this class is being recorded in a repository for later studying and use.
 
 Each folder is a different iteration of the website.
