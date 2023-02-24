@@ -62,6 +62,10 @@ body {
 	background-color: slategray;
 }
 
+.list-group-item:hover{
+	background-color: gray;
+}
+
 #constructionSign{
 	height:25%;
 	width:auto;
